@@ -1,0 +1,8 @@
+Linear regression algorithm :
+
+Problem statement example of simple linear regression 
+
+dataset with two variables: salary (dependent variable) and exprence (independent variable)
+
+GOAL:
+we need to find out of three there is any coorelation between these two variables we will  find the best fit line for the data set, How the dependent variable is changing by changing  the dependent variable.
